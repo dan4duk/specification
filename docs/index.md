@@ -41,7 +41,7 @@ Contents:
    self
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: Human Services Data Spec
 
    hsds/index
@@ -59,7 +59,6 @@ Contents:
    initiative/index
 
    governance
-   vocabulary
    design_principles
 
    faq
