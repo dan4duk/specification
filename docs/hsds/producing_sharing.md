@@ -1,5 +1,5 @@
-Producing and Sharing Compliant Data
-====================================
+Publication Guidance
+====================
 
 ### Guidance on Mapping Fields and Values
 
