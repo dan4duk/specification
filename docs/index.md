@@ -36,28 +36,28 @@ Contents:
 ```{eval-rst}
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Human Services Data Spec
 
-   about
-   reference
-   logical_model
-   variations_interoperability
-   formatting
-   changelog
+   hsds/about
+   hsds/reference
+   hsds/logical_model
+   hsds/variations_interoperability
+   hsds/formatting
+   hsds/changelog
 
 .. toctree::
    :maxdepth: 1
    :caption: HSDS Implementation Guidance
 
-   use_cases
-   schedules
-   producing_sharing
-   classifications
-   identifiers
-   extending
-   sample_data
-   detail_dates
+   hsds/use_cases
+   hsds/schedules
+   hsds/producing_sharing
+   hsds/classifications
+   hsds/identifiers
+   hsds/extending
+   hsds/sample_data
+   hsds/detail_dates
 
 .. toctree::
    :maxdepth: 1
