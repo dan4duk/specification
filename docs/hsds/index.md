@@ -54,6 +54,8 @@ The [reference documentation](hsds-spec) describes the structure of HSDS data, a
    classifications
    identifiers
    extending
+   sample_data
+   detail_dates
 
 
    ```

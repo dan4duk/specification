@@ -36,15 +36,28 @@ Contents:
 ```{eval-rst}
 
 .. toctree::
-   :maxdepth: 1
-
-   self
-
-.. toctree::
    :maxdepth: 2
    :caption: Human Services Data Spec
 
-   hsds/index
+   about
+   reference
+   logical_model
+   variations_interoperability
+   formatting
+   changelog
+
+.. toctree::
+   :maxdepth: 1
+   :caption: HSDS Implementation Guidance
+
+   use_cases
+   schedules
+   producing_sharing
+   classifications
+   identifiers
+   extending
+   sample_data
+   detail_dates
 
 .. toctree::
    :maxdepth: 1
